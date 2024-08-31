@@ -1,0 +1,5 @@
+# storing the number of prescribed medications in the variable Medication
+Medication = 5
+
+# Printing the type of the Variable ''Medication"
+print(type(Medication))
