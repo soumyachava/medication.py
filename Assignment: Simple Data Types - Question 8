@@ -1,0 +1,4 @@
+weight = 60
+height = 1.58
+susan_BMI = weight/(height**2)
+print(susan_BMI)
