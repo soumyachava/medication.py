@@ -1,0 +1,37 @@
+# Booleans
+# boolean True + boolean True - boolean False = ?
+print(True + True - False)
+
+# Booleans 2
+# logical tracker = True
+# logical tracker = logical tracker & logical tracker
+# logical tracker = logical tracker | (logical tracker - logical tracker)
+# logical tracker  = ?
+logicaltracker = True
+logicaltracker = logicaltracker & logicaltracker
+logicaltracker = logicaltracker | (logicaltracker - logicaltracker)
+print(logicaltracker)
+
+# Strings
+# string = "E. Coli"
+# string[2]=
+string = "E. Coli"
+print(string[2])
+
+# Strings 2
+# Oh no! My string has a typo!
+# string = "I Bove python"
+# No worries though. I'll just fix that.
+# string[2]="L"
+string = "I Bove python"
+string[2]="L"
+print(string)
+
+# Operators 2
+# Explain how the "+", addition operation works differently for integers and strings.
+print(6+7)
+print("6"+"7")
+
+# String 3
+# Type the output if the strings "7" and "3" are added.
+print("7"+"3")
